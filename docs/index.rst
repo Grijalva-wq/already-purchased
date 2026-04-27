@@ -163,15 +163,3 @@ Conclusion
 The **Webroot Download Already Purchased** process is designed to be simple, fast, and user-friendly. Whether you purchased through Best Buy or online, you can easily complete **Webroot Download Already Purchased Best Buy**, follow the steps to **Install Webroot Already Purchased**, and activate your antivirus without needing a CD.
 
 By following this guide, you can protect your system quickly and efficiently. With its lightweight design and powerful cloud-based protection, Webroot ensures your device stays secure against modern threats. Proper installation and activation will help you get the most out of your antivirus subscription and maintain a safe digital environment.
-
-Welcome to My Site
-==================
-
-.. toctree::
-   :maxdepth: 2
-
-   installation
-   setup
-   usage
-   troubleshooting
-   faq
