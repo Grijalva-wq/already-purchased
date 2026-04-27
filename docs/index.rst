@@ -170,8 +170,8 @@ Welcome to My Site
 .. toctree::
    :maxdepth: 2
 
-   installation
-   setup
-   usage
-   troubleshooting
-   faq
+   Webroot Download Already Purchased
+   Install Webroot Already Purchased
+   Install My Webroot Already Paid for
+   Webroot Geek Squad Download
+   Webroot SecureAnywhere Downlaod
