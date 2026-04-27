@@ -1,4 +1,0 @@
-FAQ
-===
-
-Common questions.
