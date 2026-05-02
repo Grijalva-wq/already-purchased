@@ -6,7 +6,7 @@ Webroot is a cloud-based antivirus solution designed to provide fast and lightwe
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://turbotaxdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Turbotax</a>
+       <a href="https://turbotaxdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
    </div>
 
 Users who already purchased Webroot, especially through Best Buy, can:
